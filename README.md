@@ -22,7 +22,7 @@ The dataset includes a variety of sales-related attributes, such as:
 
 This schema supports multiple business insights:
 
-- 📈 Sales analysis by region, product, and customer
+- 📈 Sales analysis by region, product, and customer  
 - 👥 Customer segmentation and retention trends
 - 🛍️ Product demand and category performance
 - 💼 Employee or sales rep tracking (optional)
