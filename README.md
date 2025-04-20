@@ -29,9 +29,9 @@ This schema supports multiple business insights:
 
 ## 🔍 Questions Solved
 
- **Task 1** : Calculate the total sales amount per region for each quarter of the current year.
- **Task 2**: Within each quarter, rank regions based on the aggregated sales amount computed in Task 1,showing which regions performed best
- **Task 3**:Determine the top 5 products based on total sales amount for the region with the highest sales in Q2 (April to June, 2025)
- **Task 4**: Month-over-Month Sales Growth Analysis
+ **Task 1** : Calculate the total sales amount per region for each quarter of the current year. <br>
+ **Task 2**: Within each quarter, rank regions based on the aggregated sales amount computed in Task 1,showing which regions performed best.<br> 
+ **Task 3**: Determine the top 5 products based on total sales amount for the region with the highest sales in Q2 (April to June, 2025).<br>  
+ **Task 4**: Month-over-Month Sales Growth Analysis.<br> 
 
 
